@@ -12,3 +12,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+
+li {
+  list-style: none;
+}
+
+.input {
+  margin-top: 10px;
+  margin-left: 10px; 
+  border-radius: 2px;
+}
